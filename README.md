@@ -43,4 +43,4 @@ npm run dev
 ## 🚀 Live Demo
 
 - Check out the live version of the project: 
-- [Live demo](https://edusity-weld.vercel.app/)
+- [Live demo](https://manufac-frontend-assignment.vercel.app/)
